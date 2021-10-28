@@ -1,5 +1,13 @@
-/* Custom CSS goes here */
+/* 
+Web App name: Midterm - Favourite Booklist
+Course name: COMP229 Web application development
+Author's Name: Tu Hanren
+Student ID: 301061529
+Date: 2021-10-28
+*/
 body {
   padding-bottom: 70px;
-  }
-
+}
+#addButton {
+  margin-bottom: 10px;
+}

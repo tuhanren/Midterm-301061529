@@ -1,4 +1,10 @@
-/* custom JS goes here */
+/* 
+Web App name: Midterm - Favourite Booklist
+Course name: COMP229 Web application development
+Author's Name: Tu Hanren
+Student ID: 301061529
+Date: 2021-10-28
+*/
 
 /* pagination code from http://www.bootply.com/lxa0FF9yhw */
 $.fn.pageMe = function(opts){
