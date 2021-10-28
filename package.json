@@ -1,5 +1,5 @@
 {
-  "name": "comp229-f2020-midterm",
+  "name": "comp229-f2021-midterm",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -45,14 +45,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/tuhanren/Midterm-301061529.git"
   },
   "keywords": [
     "NodeJS",
     "ExpressJS",
     "EJS"
   ],
-  "author": "Your Name Goes Here",
+  "author": "Tu Hanren - 301061529",
   "license": "ISC",
   "bugs": {
     "url": ""
